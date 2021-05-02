@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/consultogy/static/css/main.60fbe6ac.chunk.css",
+    "main.js": "/consultogy/static/js/main.294b901b.chunk.js",
+    "main.js.map": "/consultogy/static/js/main.294b901b.chunk.js.map",
+    "runtime-main.js": "/consultogy/static/js/runtime-main.d930d309.js",
+    "runtime-main.js.map": "/consultogy/static/js/runtime-main.d930d309.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/consultogy/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2e02a318.chunk.js": "/consultogy/static/js/2.2e02a318.chunk.js",
+    "static/js/2.2e02a318.chunk.js.map": "/consultogy/static/js/2.2e02a318.chunk.js.map",
+    "index.html": "/consultogy/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/consultogy/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.60fbe6ac.chunk.css.map": "/consultogy/static/css/main.60fbe6ac.chunk.css.map",
+    "static/js/2.2e02a318.chunk.js.LICENSE.txt": "/consultogy/static/js/2.2e02a318.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d930d309.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2e02a318.chunk.js",
+    "static/css/main.60fbe6ac.chunk.css",
+    "static/js/main.294b901b.chunk.js"
+  ]
+}
